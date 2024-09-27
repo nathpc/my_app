@@ -1,0 +1,25 @@
+# Proyecto de Aplicación Móvil para Distribución de Alimentos
+
+## Descripción
+Este proyecto consiste en el desarrollo de una aplicación móvil para una empresa de distribución de alimentos. La aplicación permitirá a los usuarios registrarse mediante SSO, realizar pedidos y calcular el costo de despacho automáticamente basado en las reglas de negocio definidas.
+
+## Funcionalidades
+- Registro e inicio de sesión con SSO (Single Sign-On).
+- Realización de pedidos.
+- Cálculo automático del costo de despacho.
+- Visualización de historial de pedidos.
+
+## Tecnologías Utilizadas
+- **Lenguaje de Programación**: Kotlin
+- **Base de Datos**: Firebase (o cualquier otra base de datos en la nube que utilicen)
+- **Autenticación**: Firebase Authentication para SSO
+- **Plataforma de Desarrollo**: Android Studio
+
+## Requisitos del Sistema
+- Android 6.0 (Marshmallow) o superior.
+- Conexión a internet para interactuar con la base de datos en la nube.
+
+## Instalación
+1. Clonar el repositorio:
+   ```bash
+   git clone https://github.com/nathpc/my_app.git
