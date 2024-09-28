@@ -11,7 +11,7 @@ Este proyecto consiste en el desarrollo de una aplicación móvil para una empre
 
 ## Tecnologías Utilizadas
 - **Lenguaje de Programación**: Kotlin
-- **Base de Datos**: Firebase (o cualquier otra base de datos en la nube que utilicen)
+- **Base de Datos**: Firebase
 - **Autenticación**: Firebase Authentication para SSO
 - **Plataforma de Desarrollo**: Android Studio
 
